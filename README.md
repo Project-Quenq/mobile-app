@@ -8,7 +8,11 @@ This is the official release repository for the **Reborn XP** Android applicatio
 
 The secure and official download for the free Reborn XP mobile app is available on our store:
 
-[**➡️ quenq.gumroad.com/l/mobile-app**](https://quenq.gumroad.com/l/mobile-app)
+[**➡️ Download Now**](https://quenq.gumroad.com/l/mobile-app)
+
+You can also download the app via **APKPure**:
+
+[**➡️ Download on APKPure**](https://apkpure.com/p/com.quenq.xp)
 
 ---
 
